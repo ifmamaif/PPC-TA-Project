@@ -1,0 +1,6 @@
+pyenchant
+numpy
+autocorrect
+Pillow
+pytesseract
+pdf2image
